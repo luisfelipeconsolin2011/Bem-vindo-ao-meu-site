@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;
-    background-color: #FFCC3D;
+    background-color: #ffcf4b;
 }
 
 
@@ -42,12 +42,12 @@ nav a {
 
 .conteudo {
     max-width: 900px;
-    margin: 0 auto;
+    margin: 50px auto;
     padding: 40px 20px;
     padding-top: 100px;
 }
 
-section {
+.borda {
     padding: 50px 0;
 }
 
@@ -77,7 +77,19 @@ html{
     scroll-behavior: smooth;
 }
 
-img{
+.pr{
     width: 290px;
     height: 300px;
+}
+
+#vendas{
+    max-width: 900px;
+    margin: 100px auto;
+    padding: 40px 200px;
+    padding-top: 100px;
+}
+
+.products{
+    width: 290px;
+    height: 350px;
 }
